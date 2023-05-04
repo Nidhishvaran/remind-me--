@@ -4,7 +4,7 @@ body{
 #text_input{
     border:none;
     width:30%;
-    padding-left:7%;
+   
     
     
 }
@@ -40,9 +40,32 @@ body{
 }
 #remove_btn{
     border-radius: 20%;
-    border-color: #a14a76;
+    border:none;
 }
 #new{
-    background-color: #f786aa;
+    padding-left:10%;
+    
     color:#000000;
+    display:flexbox;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows:150px;
+    padding-top: 2%;
+    text-decoration:none;
+    
+    
+    
+}
+#work_h{
+    text-decoration: underline;
+}
+#work_main{
+    background-color: aquamarine;
+}
+#container2{
+    justify-content:center;
+    color: #a14a76;
+    background-color: #fbc2b5;
+    font-style: italic;
+    
+
 }
