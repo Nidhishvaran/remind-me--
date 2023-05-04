@@ -1,0 +1,48 @@
+body{
+    align-content:center;
+}
+#text_input{
+    border:none;
+    width:30%;
+    padding-left:7%;
+    
+    
+}
+#main_btn{
+    border:none;
+    box-shadow: outset 1px 1px 1px;
+}
+#btn_smt{
+    
+    position: relative;
+    margin-top: 1%;
+    
+}
+#text_input{
+    background-color:lavender ;
+    color: #a14a76;    
+}
+#heading{
+    color: #a14a76;
+    background-color: #fbc2b5;
+    font-family: cursive;
+    width:50%;
+    
+}
+#container{
+    background-color:#f786aa;
+    
+    
+}
+#main_btn{
+    border-radius: 20%;
+    border-color: #a14a76;
+}
+#remove_btn{
+    border-radius: 20%;
+    border-color: #a14a76;
+}
+#new{
+    background-color: #f786aa;
+    color:#000000;
+}
